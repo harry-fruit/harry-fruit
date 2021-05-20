@@ -1,4 +1,6 @@
-### Hi there 👋
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> </p>
+## About me
+<p> My name is <a href="https://github.com/harry-fruit" target="_blank">Isaque</a> and I'm 21 years old self-taught Full-Stack from Brazil. 🌐 </p>
 
 <!--
 **harry-fruit/harry-fruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
