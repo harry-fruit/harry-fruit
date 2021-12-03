@@ -11,76 +11,87 @@
 <tbody>
  <tr>
 <td align="center" width="500px">
-<span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<p><b>JavaScript<b></p>
 </td>
 
 <td align="center" width="500px">
-<span><b><center>TypeScript</center></b></span> 
-<img height="65px" src="https://img.icons8.com/color/48/000000/typescript.png">
+<img height="55px" src="https://img.icons8.com/color/48/000000/typescript.png">
+<p><b>TypeScript<b></p>
 </td>
 
 <td align="center" width="500px">
-<span><b><center>NodeJS</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<img height=75px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<p><b>NodeJS<b></p>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<span><b><center>ReactJS</center></b></span> 
-<img height=65px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<img height=55px src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+<p><b>ReactJS<b></p>
+</td>
+ 
+<td align="center">
+<img height="50px" src="https://docs.nestjs.com/assets/logo-small.svg">
+<p><b>NestJS<b></p>
+</td>
+ 
+<td align="center">
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+<p><b>NextJS<b></p>
 </td>
 
-<td align="center">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-  
-<td align="center">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
 </tr>
 
 <tr>
 <td align="center">
-<span><b><center>Visual Studio Code</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"> 
-</td>
-
-<td align="center">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-
-<td align="center">
-<span><b><center>MySQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<span><b><center>HTML5</center></b></span> 
-<img height="65px" src="https://img.icons8.com/color/2x/html-5.png">
+<img height="55px" src="https://img.icons8.com/color/2x/html-5.png">
+<p><b>HTML5<b></p>
 </td>
 
 <td align="center" >
-<span><b><center>CSS3</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/64/000000/css3.png"> 
+<img height=55px src="https://img.icons8.com/color/64/000000/css3.png">
+<p><b>CSS3</b></p>
 </td>
 
 <td align="center">
-<span><b><center>SASS</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/96/000000/sass.png"> 
+<img height=65px src="https://img.icons8.com/color/96/000000/sass.png">
+<p><b>SCSS</b></p>
+</td>
+</tr>
+ 
+<tr>
+<td align="center">
+<img height=55px src="https://img.icons8.com/color/2x/python.png">
+<p><b>Python</b></p>
+</td>
+ 
+<td align="center" width="500px">
+<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
+<p><b>Java</b></p>
+</td>
+ 
+<td align="center">
+<img height=45px src="https://img.icons8.com/ios/50/000000/database.png">
+ <p><b>SQL/NoSQL</b></p>
 </td>
 </tr>
   
 <tr>
+<td align="center"> 
+<img height=55px src="https://img.icons8.com/color/48/000000/git.png"> 
+<p><b>Git<b></p>
+</td>
+ 
 <td align="center">
-<span><b><center>NPM</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/96/000000/npm.png"> 
+<p><b>NPM</b></p>
+</td>
+ 
+<td align="center">
+<img height=65px src="https://img.icons8.com/color/48/000000/docker.png"> 
+<p><b>Docker</b></p>
 </td>
 </tr>
     
