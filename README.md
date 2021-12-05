@@ -108,10 +108,39 @@ ____
 </summary>
 
 ### Web Applications
+ <p><b>Front-end Apps</b></p>
 <ul>
-  <li><a href="https://github.com/harry-fruit/Gym">SPA - Gym</a></li>
-  <li><a href="https://github.com/harry-fruit/Real-estate">SPA - Real State</a></li>
-  <li><a href="https://github.com/harry-fruit/Cozinha-Bras-Cubas">Brás Cubas's Kitchen</a></li>
+  <li>
+   <h3><b>SPA - Gym</b></h3>
+   <h4><b>Description</b></h4>
+   <p><i>- Build with React.js</i></p>
+   <p><i>- GitHub Repository: <a href="https://github.com/harry-fruit/Gym">Click here</a></i></p>
+   <p><i>- Website: <a href="https://gym-project.netlify.app/">Click here</a></i></p>
+  </li>
+  <li>
+    <h3><b>Brás Cubas's Kitchen</b></h3>
+    <h4><b>Description</b></h4>
+    <p><i>- Build without any framework - HTML5, CSS3, JS</i></p>
+    <p><i>- GitHub Repository: <a href="https://github.com/harry-fruit/Cozinha-Bras-Cubas">Click here</a></i></p>
+    <p><i>- Website: <a href="https://bras-kitchen.netlify.app/">Click here</a></i></p>
+  </li>
+</ul>
+ <p><b>Back-end Apps</b></p>
+ <ul>
+    <li>
+        <h3><b>Basic REST API</b></h3>
+        <h4><b>Description</b></h4>
+        <p><i>- Build with Nest.js, Typescript, MariaDB and Docker.</i></p>
+        <p><i>- This project initially has been created to supply an Angular 9 application.</i></p>
+        <p><i>- GitHub Repository: <a href="https://github.com/harry-fruit/backend-nestjs-project">Click here</a></i></p>
+    </li>
+    <li>
+        <h3><b>REST API</b></h3>
+        <h4><b>Description</b></h4>
+        <p><i>- Build with Express.js, Typescript, Postgres and Docker.</i></p>
+        <p><i>- This project initially has been created to explore the power of TypeScript and Express.js.</i></p>
+        <p><i>- GitHub Repository: <a href="https://github.com/harry-fruit/express-api">Click here</a></i></p>
+  </li>
 </ul>
   
   ### Desktop Applications
@@ -140,4 +169,3 @@ ____
 ⭐️ [harry-fruit](https://github.com/harry-fruit)
  
 </p>
-
