@@ -11,11 +11,6 @@
 <tbody>
  <tr>
 <td align="center" width="500px">
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-<p><b>JavaScript<b></p>
-</td>
-
-<td align="center" width="500px">
 <img height="55px" src="https://img.icons8.com/color/48/000000/typescript.png">
 <p><b>TypeScript<b></p>
 </td>
@@ -23,6 +18,11 @@
 <td align="center" width="500px">
 <img height=75px src="https://img.icons8.com/color/2x/nodejs.png"> 
 <p><b>NodeJS<b></p>
+</td>
+
+ <td align="center" width="500px">
+<img height=75px src="https://img.icons8.com/color/2x/nodejs.png](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png"> 
+<p><b>Golang<b></p>
 </td>
 </tr>
 
