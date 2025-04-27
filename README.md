@@ -2,7 +2,7 @@
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
-<p align="center"><samp>Hi, my name is <a href="https://github.com/harry-fruit" target="_blank">Isaque D</a>. I'm an analysis and systems development college student. In my repositories you'll find projects created using:</samp></p>
+<p align="center"><samp>Hi, my name is <a href="https://github.com/harry-fruit" target="_blank">Isaque D</a>. I'm a Software Engineer/Full-Stack Developer passionate for system development. In my repositories you'll find projects created using:</samp></p>
 
 ## Tech Stack :computer:
 
