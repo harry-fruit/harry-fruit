@@ -56,45 +56,21 @@
 </td>
 
 <td align="center">
-<img height=65px src="https://img.icons8.com/color/96/000000/sass.png">
-<p><b>SCSS</b></p>
+<img height=55px src="https://img.icons8.com/color/2x/python.png">
+<p><b>Python</b></p>
 </td>
 </tr>
  
 <tr>
-<td align="center">
-<img height=55px src="https://img.icons8.com/color/2x/python.png">
-<p><b>Python</b></p>
-</td>
- 
-<td align="center" width="500px">
-<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
-<p><b>Java</b></p>
-</td>
- 
 <td align="center">
 <img height=45px src="https://img.icons8.com/ios/50/000000/database.png">
  <p><b>SQL/NoSQL</b></p>
 </td>
-</tr>
-  
-<tr>
-<td align="center"> 
-<img height=55px src="https://img.icons8.com/color/48/000000/git.png"> 
-<p><b>Git<b></p>
-</td>
- 
-<td align="center">
-<img height=65px src="https://img.icons8.com/color/96/000000/npm.png"> 
-<p><b>NPM</b></p>
-</td>
- 
 <td align="center">
 <img height=65px src="https://img.icons8.com/color/48/000000/docker.png"> 
 <p><b>Docker</b></p>
 </td>
 </tr>
-    
 
 </tbody>
 </table>
