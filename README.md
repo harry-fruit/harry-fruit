@@ -151,7 +151,6 @@ ____
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/isaque-d-moreira-578697191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/isaq.js/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 
