@@ -21,7 +21,7 @@
 </td>
 
  <td align="center" width="500px">
-<img height=75px src="https://img.icons8.com/color/2x/nodejs.png](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png"> 
+<img height=55px src="https://raw.githubusercontent.com/harry-fruit/public_vectors/2ecb2d2d26202682f3e4ca393e69dcb2932be1d3/gopher.svg"> 
 <p><b>Golang<b></p>
 </td>
 </tr>
@@ -38,7 +38,7 @@
 </td>
  
 <td align="center">
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+<img height="50px" src="https://raw.githubusercontent.com/harry-fruit/public_vectors/091c507467c9d7ca17952ef663e90545bf30f520/nextjs.svg">
 <p><b>NextJS<b></p>
 </td>
 
@@ -46,7 +46,7 @@
 
 <tr>
 <td align="center">
-<img height="55px" src="https://img.icons8.com/color/2x/html-5.png">
+<img height="50px" src="https://img.icons8.com/color/2x/html-5.png">
 <p><b>HTML5<b></p>
 </td>
 
@@ -63,12 +63,31 @@
  
 <tr>
 <td align="center">
-<img height=45px src="https://img.icons8.com/ios/50/000000/database.png">
- <p><b>SQL/NoSQL</b></p>
+<img height=55px src="https://img.icons8.com/color/48/000000/docker.png"> 
+<p><b>Docker</b></p>
 </td>
 <td align="center">
-<img height=65px src="https://img.icons8.com/color/48/000000/docker.png"> 
-<p><b>Docker</b></p>
+<img height=55px src="https://raw.githubusercontent.com/harry-fruit/public_vectors/refs/heads/main/kubernetes.svg"> 
+<p><b>Kubernetes</b></p>
+</td>
+<td align="center">
+<img height=55px src="https://raw.githubusercontent.com/harry-fruit/public_vectors/refs/heads/main/linux-tux.svg"> 
+<p><b>Linux-based system</b></p>
+</td>
+
+</tr>
+<tr>
+<td align="center">
+<img height=45px src="https://raw.githubusercontent.com/harry-fruit/public_vectors/5477fd810448e428aa88e0efd02884ee3aff9a3f/postgresql.svg">
+ <p><b>Postgres</b></p>
+</td>
+<td align="center">
+<img height=45px src="https://raw.githubusercontent.com/harry-fruit/public_vectors/5477fd810448e428aa88e0efd02884ee3aff9a3f/sql-server.svg">
+ <p><b>MSSQL</b></p>
+</td>
+<td align="center">
+<img height=45px src="https://raw.githubusercontent.com/harry-fruit/public_vectors/5023cc08d0b7d18c2e9eae6ac1f4f68b53780de9/mongodb.svg">
+ <p><b>MongoDB</b></p>
 </td>
 </tr>
 
